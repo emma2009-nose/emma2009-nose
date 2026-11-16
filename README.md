@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***mas sobre mi***
 
 ya no aguanto mas esto... creo que voy a programar por divercion
-- 📫 mi contacto: <a href="add email">gmail</a>
+- 📫 mi contacto: <a href="emma.echavarria352@gmail.com">gmail</a>
 
 lenguajes
 
