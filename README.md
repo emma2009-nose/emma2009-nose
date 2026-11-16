@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***mas sobre mi***
 
-ya no aguanto mas esto... creo que voy a programar por divercion
+ya no aguanto mas esto... creo que voy a programar por diversión 
 - 📫 mi contacto: <a href="emma.echavarria352@gmail.com">gmail</a>
 
 lenguajes
