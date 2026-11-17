@@ -5,11 +5,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***mas sobre mi***
 
 ya no aguanto mas esto... creo que voy a programar por diversión 
-- 📫 mi contacto: <a href="emma.echavarria352@gmail.com">gmail</a>
 
-lenguajes
+<h4>lenguajes</h4>
 
-<h4>me gusta python :)</h4>
+me gusta python :) <br>
 <span>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   
